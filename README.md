@@ -1,13 +1,13 @@
+
+
 # American-Express-Default-Prediction
+
 
 ## Project Description
 
 This project focuses on the credit default prediction in relation to a worldwide financial services corporation named American Express.It is an internationally diversified payments corporation known to be the biggest payment card issuer in the world.
 
 In this study the performance of various machine learning models will be compared on an industrial scale dataset in order to identify the most effective model. We also calulate the evaluation metric M which is the mean of two measures of rank ordering: Normalized Gini Coefficient, G and default rate captured at 4%, D, Confusion matrix and Area under the curve (AUC).The results of this study have practical significance for guiding financial institutions in reducing losses caused by defaulting credit card customers.
-
-
-
 
 ## Data Sources
 
@@ -37,8 +37,6 @@ The test dataset's initial 76924 observations and the training dataset's initial
 Link to the original Dataset: https://www.kaggle.com/competitions/amex-default-prediction/data
 
 
-
-
 ## Results 
 
 Customer default predicted with K-Nearest Neighbour gave the 
@@ -46,6 +44,8 @@ best performance and most precise results. KNN Model not only demonstrated high 
 evaluation metrics Accuracy, Precision, Recall, F1 Score and 
 AUC score but it also executed quickest in comparison to other ML 
 models tested.
+
+![Poster](poster.png)
 
 
 ## Future work
@@ -60,6 +60,7 @@ be more effective.
 ## Acknowledgments
 
 I would like to thank my team members Anu Maria George, Atul Katoch and Priyank Sharma as well as my supervisor Dr.Ibrahim Radwan for their continuous support and inspiration.
+
 
 
 
